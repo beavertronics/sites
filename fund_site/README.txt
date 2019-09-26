@@ -1,1 +1,1 @@
-This is the html code for a website that I (Lolly) made in Web Design. It would be used to manage fundraising efforts and could possibly also be used for other purposes. I think it looks pretty nice but it is currently not hosted anywhere.
+This is the html code for a website that I (Lolly) made in Web Design. It would be used to manage fundraising efforts and could possibly also be used for other purposes. I think it looks pretty nice but it is currently not hosted anywhere. Just clone this repo and run index.html to see the site.
